@@ -26,7 +26,7 @@ I build scalable distributed systems and socially impactful software. Currently 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuma496&show_icons=true&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuma496&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
 
 ---
 ### 📫 Let's Connect!
