@@ -26,7 +26,8 @@ I build scalable distributed systems and socially impactful software. Currently 
 ---
 
 ### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats-woad-omega-73.vercel.app/api?username=akuma496&show_icons=true&theme=radical&rank_icon=github)
+![Aditya's Stats](https://github-readme-stats-woad-omega-73.vercel.app/api?username=akuma496&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats-woad-omega-73.vercel.app/api/top-langs/?username=akuma496&layout=compact&theme=radical)
 
 ---
 ### 📫 Let's Connect!
