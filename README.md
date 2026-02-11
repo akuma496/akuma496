@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aditya! 👋
 
-<!--
-**akuma496/akuma496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | MS @ Arizona State University
+I build scalable distributed systems and socially impactful software. Currently finishing my final semester and looking for roles starting May 2026.
 
-Here are some ideas to get you started:
+- 🏆 **Winner:** 1st Place Hacks for Humanity (2025)
+- 🚀 **Built:** E.V.O — An LLM-driven trade execution platform (3rd Place @ HackASU)
+- 🛠️ **Current Project:** Mobile application for dementia patients (Faculty Capstone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** ![Java](badge_url) ![Python](badge_url) ![Go](badge_url)
+- **Data & Infra:** ![Kafka](badge_url) ![Docker](badge_url) ![CockroachDB](badge_url)
+- **Interests:** Distributed Systems, Consensus Algorithms (Raft), DeFi, AI/ML
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuma496&show_icons=true&theme=radical)
+
+---
