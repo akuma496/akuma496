@@ -61,4 +61,4 @@ I build resilient infrastructure and high-throughput data pipelines. Passionate 
 ### 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya1151999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4d00.svg?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-vercel-url.vercel.app](https://portfolio-9v1kstjhl-akuma496s-projects.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4d00.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-9v1kstjhl-akuma496s-projects.vercel.app/)
